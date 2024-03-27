@@ -1,12 +1,12 @@
 ### Hi there 👋
+# 👋 Welcome, いらっしゃいませ, Добро пожаловать, 환영합니다
+
+- 🔭 I’m currently working on backend
+- 🌱 I’m currently learning LLM and digital asset management
+
 
 <!--
 **Sainthood2077/Sainthood2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
