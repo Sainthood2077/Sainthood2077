@@ -1,5 +1,4 @@
-### Hi there 👋
-# 👋 Welcome, いらっしゃいませ, Добро пожаловать, 환영합니다
+## Hi there 👋  Welcome, いらっしゃいませ, Добро пожаловать, 환영합니다
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning LLM and digital asset management
